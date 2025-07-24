@@ -30,7 +30,7 @@ enum {
     R_R2,
     R_R3,
     R_R4,
-    R_r5,
+    R_R5,
     R_R6,
     R_R7,
     R_PC,    // Progam Counter
